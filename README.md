@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpit Mishra</h1>
 <h3 align="center">Web Developer|Competitive Programmer |Learner</h3>
-<h4>I am a 2nd year college student doing bachelors in Technology in Electronics & Communication Engineering <br><br>I have interest in Web Developement and Problem Solving.<br><br>I code formally in C++<br><br>Thanks for taking time to read this. Follow me to hear more about me. :)</h4>
+<h4>I am a 3rd year college student doing bachelors in Technology in Electronics & Communication Engineering <br><br>I have interest in Web Developement and Problem Solving.<br><br>I code formally in C++<br><br>Thanks for taking time to read this. Follow me to hear more about me. :)</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-mishra-b6977a239/)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/arpitmishra8751/)
