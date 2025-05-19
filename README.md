@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Arpit Mishra</h1>
 <h3 align="center">Web Developer|Competitive Programmer |Learner</h3>
 <h4>I am a 3rd year college student doing bachelors in Technology in Electronics & Communication Engineering <br><br>I have interest in Web Developement and Problem Solving.<br><br>I code formally in C++<br><br>Thanks for taking time to read this. Follow me to hear more about me. :)</h4>
 
